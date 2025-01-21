@@ -1,0 +1,2 @@
+WAP tp retrieve all the words starting with digits 
+str=""

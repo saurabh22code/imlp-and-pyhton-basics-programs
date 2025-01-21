@@ -1,0 +1,5 @@
+
+Welcome to the email extraction test.
+Here are some email addresses:
+example1@gmail.com, contact_us@domain.org, user.name@company.com
+For queries, email us at info@website.net or support@helpdesk.co.

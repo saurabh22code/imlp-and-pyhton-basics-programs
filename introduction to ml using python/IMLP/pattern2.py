@@ -1,0 +1,6 @@
+f=open("student1.txt",'w+')
+f.write("roll,name,marks")
+f.write("roll,name,marks")
+f.write("roll,name,marks")
+f.write("roll,name,marks")
+f.close()
